@@ -1,4 +1,7 @@
 # CS-360
+
+Project 3 video link: https://youtu.be/XCVNre2vvr8
+
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
   The app is a basic inventory management system that allows its users to track items, adjust quantities on the fly, and get alerts for low stock and out of stock items. It is made for warehouse managers at small    businesses to be able to see inventory levels and help to prevent running out of stock.
   
